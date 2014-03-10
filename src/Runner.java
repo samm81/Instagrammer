@@ -81,6 +81,7 @@ public class Runner {
 	 * 
 	 * @return the specific filter object based on the selection in the dropdown
 	 */
+	/*
 	private static Filter getCurrentFilter() {
 		Filter filter;
 		switch(filterChooser.getSelectedItem()){
@@ -97,4 +98,5 @@ public class Runner {
 		}
 		return filter;
 	}
+	*/
 }
